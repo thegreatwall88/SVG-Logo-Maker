@@ -1,7 +1,4 @@
 # 10 Object-oriented Programming: SVG Logo Maker Using Node.js
-Walk through video link
-https://drive.google.com/file/d/1Pwckp7cr_hq1y8UMKirOPGHD81FxDzV8/view
-https://www.youtube.com/watch?v=QmXn6umiIDw
 
 ## Description
 Use Node Inquirer to create questions from user to collect inputs from user to build a svg file. Then build 2 test files to test the svg creation and if the results pass the specifications. 
